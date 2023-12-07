@@ -1,0 +1,6 @@
+Para iniciar el programa ejecuta el archivo "Ficherosbiblio.java".
+
+Introduce un número de los que salen en el menú principal para entrar a esa opción (Gestionar X) o (Salir).
+
+Una vez introduzcas el número (a excepción de "Salir") te saldrá el menú correspondiente a la opción escogida,
+ahí podrás introducir otro número de los mostrados para hacer X cosa sobre ese menú (Libro, Autor, Prestamo) o salir al menú principal.
